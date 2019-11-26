@@ -4,8 +4,8 @@
 
 <a href="https://www.theodinproject.com/courses/ruby-programming/lessons/linked-lists">Project Link</a>
 
-<h5>Project Description</h5>
 </br>
+<h5>Project Description</h5>
 <h6>You will need two classes:</h6>
 <ul>
     <li>LinkedList class, which will represent the full list.</li>
